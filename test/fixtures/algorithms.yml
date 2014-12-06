@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  algorithm: eq_bldg
+  formula: lim,* coin,* lceq_bldg,* table_50
+
+two:
+  algorithm: eq_time
+  formula: lim,* coin,* lceq_bldg,* lceq_time,* table_50
+
+three:
+  algorithm: utddww
+  formula: lim,* coin,* wwrisk

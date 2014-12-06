@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: eqtime
+  coverages: eq_bldg,eq_time
+  rate: 1
+  limit: 10000
+  coinsurance: 90
+
+two:
+  name: utdd
+  coverages: utddww
+  rate: 1
+  limit: 100000
+  coinsurance: 80
