@@ -27,7 +27,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 group :test, :development do
-  gem 'rspec-rails', '~> 2.12'
+  gem 'rspec-rails', '~> 3.0', '>= 3.0.0'
   gem 'sauce', '~> 3.1.1'
   gem 'sauce-connect'
   gem 'capybara', '~> 2.0.3'
